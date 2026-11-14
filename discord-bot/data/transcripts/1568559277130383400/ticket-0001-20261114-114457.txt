@@ -1,0 +1,19 @@
+Marketplace Guard — Ticket Transcript
+==============================================
+Guild: Scam-Basement 😘🤫 (1568559277130383400)
+Ticket: #0001 (ticket-0001)
+Buyer: r6p1st (1550594338013315107)
+Claimed by: unclaimed
+Item: 1month nitro
+Quantity: 1
+Listed price: not listed
+Notes: crypto
+Opened: 2026-11-14T11:42:02+00:00
+Closed by: r6p1st (1550594338013315107)
+Closed at: 2026-11-14T11:44:56+00:00
+==============================================
+
+[2026-11-14 11:42:01 UTC] AMIR#9820 (1571102231284154529): @NULL | Inactives — your ticket is ready!
+    [embed] Ticket #0001
+
+--- End of transcript (1 message(s)) ---

@@ -1,0 +1,139 @@
+{
+  "guilds": {
+    "1568559277130383400": {
+      "prefix": "?",
+      "log_channel_id": 1571125418516283504,
+      "verification": {
+        "channel_id": 1571033832071766046,
+        "role_id": 1571121213974249583,
+        "message_id": 1571122898540695573,
+        "title": "Welcome to AMIR's 2-dolla shop",
+        "description": "Click the **Verify** button below to unlock the server.\n\nBy verifying you agree to follow the server rules.",
+        "button_label": "Verify",
+        "image": "",
+        "color": "#57F287"
+      },
+      "tickets": {
+        "channel_id": 1571127727040368720,
+        "message_id": 1571129212205531288,
+        "category_id": null,
+        "staff_role_id": null,
+        "ticket_log_channel_id": 1571127418553638992,
+        "counter": 1,
+        "title": "🎟️ Buy something",
+        "description": "Click the button below to open a private ticket.\nTell us **what you are buying** and **how many**, and our staff will handle the rest.",
+        "button_label": "Open a ticket",
+        "image": "",
+        "thumbnail": "",
+        "footer": "Our staff will claim your ticket shortly",
+        "color": "#5865F2",
+        "open": {}
+      },
+      "shop": {
+        "channel_id": 1571124057674358914,
+        "message_id": 1571124245574975500,
+        "staff_role_id": null,
+        "heading": {
+          "title": "🛒 Marketplace",
+          "description": "Welcome to the marketplace! Browse the sections below.\nOpen a ticket to purchase anything you see here.",
+          "image": "",
+          "thumbnail": "",
+          "footer": "Prices may change without notice • Open a ticket to purchase",
+          "color": "#5865F2"
+        },
+        "sections": [
+          {
+            "name": "nitro",
+            "emoji": "",
+            "description": "",
+            "image": "",
+            "color": "",
+            "items": [
+              {
+                "name": "1 Month Boost",
+                "price": "$4.99",
+                "stock": "",
+                "description": "",
+                "emoji": ""
+              },
+              {
+                "name": "14 Month Boost",
+                "price": "$4.99",
+                "stock": "",
+                "description": "",
+                "emoji": ""
+              }
+            ]
+          }
+        ]
+      },
+      "warnings": {},
+      "warning_seq": 0,
+      "mod_role_id": null
+    },
+    "1": {
+      "prefix": null,
+      "log_channel_id": null,
+      "mod_role_id": null,
+      "verification": {
+        "channel_id": null,
+        "role_id": null,
+        "message_id": null,
+        "title": "✅ Verify to enter",
+        "description": "Click the **Verify** button below to unlock the server.\n\nBy verifying you agree to follow the server rules.",
+        "button_label": "Verify",
+        "image": "",
+        "color": "#57F287"
+      },
+      "tickets": {
+        "channel_id": null,
+        "message_id": null,
+        "category_id": null,
+        "staff_role_id": null,
+        "ticket_log_channel_id": null,
+        "counter": 0,
+        "title": "🎟️ Buy something",
+        "description": "Click the button below to open a private ticket.\nTell us **what you are buying** and **how many**, and our staff will handle the rest.",
+        "button_label": "Open a ticket",
+        "image": "",
+        "thumbnail": "",
+        "footer": "Our staff will claim your ticket shortly",
+        "color": "#5865F2",
+        "open": {}
+      },
+      "shop": {
+        "channel_id": null,
+        "message_id": null,
+        "staff_role_id": null,
+        "heading": {
+          "title": "🛒 Marketplace",
+          "description": "Welcome to the marketplace! Browse the sections below.\nOpen a ticket to purchase anything you see here.",
+          "image": "",
+          "thumbnail": "",
+          "footer": "Prices may change without notice • Open a ticket to purchase",
+          "color": "#5865F2"
+        },
+        "sections": [
+          {
+            "name": "Nitro",
+            "emoji": "",
+            "description": "",
+            "image": "",
+            "color": "",
+            "items": [
+              {
+                "name": "1 Year Boost",
+                "price": "$39.99",
+                "stock": "",
+                "description": "",
+                "emoji": ""
+              }
+            ]
+          }
+        ]
+      },
+      "warnings": {},
+      "warning_seq": 0
+    }
+  }
+}

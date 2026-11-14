@@ -1,0 +1,107 @@
+[2026-11-14 16:05:00] WARNING  discord.client: PyNaCl is not installed, voice will NOT be supported
+[2026-11-14 16:05:00] WARNING  discord.client: davey is not installed, voice will NOT be supported
+[2026-11-14 16:05:02] INFO     bot: Loaded 7 extensions
+[2026-11-14 16:05:02] INFO     bot: Persistent views registered: verification, tickets
+[2026-11-14 16:05:06] INFO     bot: Logged in as AMIR#9820 (1571102231284154529) • 0 guild(s) • 38 commands
+[2026-11-14 16:13:15] WARNING  discord.client: PyNaCl is not installed, voice will NOT be supported
+[2026-11-14 16:13:15] WARNING  discord.client: davey is not installed, voice will NOT be supported
+[2026-11-14 16:13:16] INFO     bot: Loaded 7 extensions
+[2026-11-14 16:13:16] INFO     bot: Persistent views registered: verification, tickets
+[2026-11-14 16:13:21] INFO     bot: Logged in as AMIR#9820 (1571102231284154529) • 0 guild(s) • 38 commands
+[2026-11-14 16:14:10] INFO     bot: Joined guild Scam-Basement 😘🤫 (1568559277130383400) • 2 members • missing permissions: none
+[2026-11-14 16:23:44] WARNING  bot: Command ban failed in 1568559277130383400: user is a required argument that is missing.
+[2026-11-14 16:29:59] ERROR    bot: DISCORD_TOKEN is missing. Copy .env.example to .env and paste your bot token.
+[2026-11-14 16:33:41] WARNING  discord.client: PyNaCl is not installed, voice will NOT be supported
+[2026-11-14 16:33:41] WARNING  discord.client: davey is not installed, voice will NOT be supported
+[2026-11-14 16:33:43] INFO     bot: Loaded 7 extensions
+[2026-11-14 16:33:43] INFO     bot: Persistent views registered: verification, tickets
+[2026-11-14 16:33:44] INFO     bot: Synced 30 global application commands
+[2026-11-14 16:33:48] INFO     bot: Logged in as AMIR#9820 (1571102231284154529) • 1 guild(s) • 38 commands
+[2026-11-14 16:33:49] INFO     bot: Synced 30 slash commands to guild Scam-Basement 😘🤫 (1568559277130383400)
+[2026-11-14 16:41:56] WARNING  bot: Command ban failed in 1568559277130383400: user is a required argument that is missing.
+[2026-11-14 16:42:16] WARNING  bot: Command ban failed in 1568559277130383400: user is a required argument that is missing.
+[2026-11-14 16:42:55] WARNING  bot: Command purge failed in 1568559277130383400: Converting to "int" failed for parameter "amount".
+[2026-11-14 16:48:34] WARNING  discord.client: PyNaCl is not installed, voice will NOT be supported
+[2026-11-14 16:48:34] WARNING  discord.client: davey is not installed, voice will NOT be supported
+[2026-11-14 16:48:36] INFO     bot: Loaded 7 extensions
+[2026-11-14 16:48:36] INFO     bot: Persistent views registered: verification, tickets
+[2026-11-14 16:48:37] INFO     bot: Synced 30 global application commands
+[2026-11-14 16:48:41] INFO     bot: Logged in as AMIR#9820 (1571102231284154529) • 1 guild(s) • 38 commands
+[2026-11-14 16:48:41] INFO     bot: Synced 30 slash commands to guild Scam-Basement 😘🤫 (1568559277130383400)
+[2026-11-14 16:49:29] WARNING  bot: Command say failed in 1520374027531845762: You are missing Manage Messages permission(s) to run this command.
+[2026-11-14 16:57:18] WARNING  discord.client: PyNaCl is not installed, voice will NOT be supported
+[2026-11-14 16:57:18] WARNING  discord.client: davey is not installed, voice will NOT be supported
+[2026-11-14 16:57:19] INFO     bot: Loaded 7 extensions
+[2026-11-14 16:57:19] INFO     bot: Persistent views registered: verification, tickets
+[2026-11-14 16:57:20] INFO     bot: Synced 30 global application commands
+[2026-11-14 16:57:24] INFO     bot: Logged in as AMIR#9820 (1571102231284154529) • 1 guild(s) • 38 commands
+[2026-11-14 16:57:25] INFO     bot: Synced 30 slash commands to guild Scam-Basement 😘🤫 (1568559277130383400)
+[2026-11-14 16:58:11] WARNING  bot: Command shop additem failed in 1568559277130383400: Use `additem section | name | price | stock | description`.
+Example: `additem Nitro | 1 Month Boost | $4.99 | In stock | Instant delivery`
+[2026-11-14 17:00:44] WARNING  discord.client: PyNaCl is not installed, voice will NOT be supported
+[2026-11-14 17:00:44] WARNING  discord.client: davey is not installed, voice will NOT be supported
+[2026-11-14 17:00:45] INFO     bot: Loaded 7 extensions
+[2026-11-14 17:00:45] INFO     bot: Persistent views registered: verification, tickets
+[2026-11-14 17:00:46] INFO     bot: Synced 31 global application commands
+[2026-11-14 17:00:50] INFO     bot: Logged in as AMIR#9820 (1571102231284154529) • 1 guild(s) • 39 commands
+[2026-11-14 17:00:50] INFO     bot: Synced 31 slash commands to guild Scam-Basement 😘🤫 (1568559277130383400)
+[2026-11-14 17:00:59] WARNING  bot: Command shop list failed in 1568559277130383400: Command 'list' raised an exception: TypeError: info_embed() missing 1 required positional argument: 'description'
+[2026-11-14 17:00:59] ERROR    bot: Unhandled error in command shop list
+Traceback (most recent call last):
+  File "C:\Users\abhis\.config\freebuff-desktop\local-projects\680c29bc-4c9a-4982-b5e3-5fdc89c1433b\discord-bot\.venv\Lib\site-packages\discord\app_commands\commands.py", line 858, in _do_call
+    return await self._callback(self.binding, interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhis\.config\freebuff-desktop\local-projects\680c29bc-4c9a-4982-b5e3-5fdc89c1433b\discord-bot\cogs\marketplace.py", line 620, in list_cmd
+    embed = info_embed(title="🛒 Shop contents")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: info_embed() missing 1 required positional argument: 'description'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\abhis\.config\freebuff-desktop\local-projects\680c29bc-4c9a-4982-b5e3-5fdc89c1433b\discord-bot\.venv\Lib\site-packages\discord\ext\commands\hybrid.py", line 463, in _invoke_with_namespace
+    value = await self._do_call(ctx, ctx.kwargs)  # type: ignore
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhis\.config\freebuff-desktop\local-projects\680c29bc-4c9a-4982-b5e3-5fdc89c1433b\discord-bot\.venv\Lib\site-packages\discord\app_commands\commands.py", line 873, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'list' raised an exception: TypeError: info_embed() missing 1 required positional argument: 'description'
+[2026-11-14 17:01:59] WARNING  discord.client: PyNaCl is not installed, voice will NOT be supported
+[2026-11-14 17:01:59] WARNING  discord.client: davey is not installed, voice will NOT be supported
+[2026-11-14 17:02:01] INFO     bot: Loaded 7 extensions
+[2026-11-14 17:02:01] INFO     bot: Persistent views registered: verification, tickets
+[2026-11-14 17:02:02] INFO     bot: Synced 31 global application commands
+[2026-11-14 17:02:06] INFO     bot: Logged in as AMIR#9820 (1571102231284154529) • 1 guild(s) • 39 commands
+[2026-11-14 17:02:06] INFO     bot: Synced 31 slash commands to guild Scam-Basement 😘🤫 (1568559277130383400)
+[2026-11-14 17:03:08] WARNING  discord.client: PyNaCl is not installed, voice will NOT be supported
+[2026-11-14 17:03:08] WARNING  discord.client: davey is not installed, voice will NOT be supported
+[2026-11-14 17:03:10] INFO     bot: Loaded 7 extensions
+[2026-11-14 17:03:10] INFO     bot: Persistent views registered: verification, tickets
+[2026-11-14 17:03:11] INFO     bot: Synced 31 global application commands
+[2026-11-14 17:03:15] INFO     bot: Logged in as AMIR#9820 (1571102231284154529) • 1 guild(s) • 39 commands
+[2026-11-14 17:03:16] INFO     bot: Synced 31 slash commands to guild Scam-Basement 😘🤫 (1568559277130383400)
+[2026-11-14 17:07:05] WARNING  discord.client: PyNaCl is not installed, voice will NOT be supported
+[2026-11-14 17:07:05] WARNING  discord.client: davey is not installed, voice will NOT be supported
+[2026-11-14 17:07:07] INFO     bot: Loaded 7 extensions
+[2026-11-14 17:07:07] INFO     bot: Persistent views registered: verification, tickets
+[2026-11-14 17:07:08] INFO     bot: Using guild-scoped slash commands only (global commands cleared)
+[2026-11-14 17:07:12] INFO     bot: Logged in as AMIR#9820 (1571102231284154529) • 1 guild(s) • 39 commands
+[2026-11-14 17:07:13] INFO     bot: Synced 31 slash commands to guild Scam-Basement 😘🤫 (1568559277130383400)
+[2026-11-14 17:09:44] WARNING  bot: Command ticket log failed in 1568559277130383400: Mention a channel, e.g. `ticket log #ticket-logs`.
+[2026-11-14 17:18:30] WARNING  bot: Command shop additem failed in 1568559277130383400: Use `additem section | name | price | stock | description`.
+Example: `additem Nitro | 1 Month Boost | $4.99 | In stock | Instant delivery`
+[2026-11-14 17:34:08] WARNING  discord.client: PyNaCl is not installed, voice will NOT be supported
+[2026-11-14 17:34:08] WARNING  discord.client: davey is not installed, voice will NOT be supported
+[2026-11-14 17:34:10] INFO     bot: Loaded 7 extensions
+[2026-11-14 17:34:10] INFO     bot: Persistent views registered: verification, tickets
+[2026-11-14 17:34:11] INFO     bot: Using guild-scoped slash commands only (global commands cleared)
+[2026-11-14 17:34:14] INFO     bot: Logged in as AMIR#9820 (1571102231284154529) • 1 guild(s) • 39 commands
+[2026-11-14 17:34:15] INFO     bot: Synced 31 slash commands to guild Scam-Basement 😘🤫 (1568559277130383400)
+[2026-11-14 17:38:36] WARNING  bot: Disconnected from Discord, reconnecting…
+[2026-11-14 17:38:38] INFO     bot: Connection resumed
+[2026-11-14 17:43:09] WARNING  discord.client: PyNaCl is not installed, voice will NOT be supported
+[2026-11-14 17:43:09] WARNING  discord.client: davey is not installed, voice will NOT be supported
+[2026-11-14 17:43:10] INFO     bot: Loaded 7 extensions
+[2026-11-14 17:43:10] INFO     bot: Persistent views registered: verification, tickets
+[2026-11-14 17:43:11] INFO     bot: Using guild-scoped slash commands only (global commands cleared)
+[2026-11-14 17:43:15] INFO     bot: Logged in as AMIR#9820 (1571102231284154529) • 1 guild(s) • 39 commands
+[2026-11-14 17:43:15] INFO     bot: Synced 31 slash commands to guild Scam-Basement 😘🤫 (1568559277130383400)
